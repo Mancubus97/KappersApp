@@ -8,8 +8,6 @@ This app shows an demo for a barbers app.
 
  
 
-# [Start Bootstrap - SB Admin 2](https://startbootstrap.com/themes/sb-admin-2/)
-
 The following template was used to create this app
 https://github.com/niyonx/flask-startbootstrap-sb-admin-2.git
 
